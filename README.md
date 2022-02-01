@@ -1,4 +1,4 @@
-# Projects
+# Project 1
 
 The aim of this project is to manage a Student database (csv).
 

@@ -10,7 +10,7 @@ In this csv appears the ID of each student followed by their respectively marks.
 
 3-. Describing each assessment
 
-4-. Describe a columns in specific, please be concious
+4-. Describe a columns in specific, please be concise
 
 5-. Data containing Passes/Fail depending on the average of each assessment
 
@@ -26,7 +26,7 @@ Quiz-1 Quiz-2 Quiz-3 Quiz-4 Quiz-5 Quiz-6
 Midterm
 Final
 
-Finally this program contains 2 parts:
+Finally this program contains 3 parts:
 
   1-. The class "Worksheet" stored in Student_Marks.py"
   

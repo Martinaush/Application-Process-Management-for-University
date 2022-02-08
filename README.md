@@ -5,10 +5,15 @@ The aim of this project is to manage a Student database (csv).
 In this csv appears the ID of each student followed by their respectively marks. Moreover, this program will allow you to:
 
 1-. Visualize your data
+
 2-. Visualize your data sorted in terms of average final score
+
 3-. Describing each assessment
+
 4-. Describe a columns in specific, please be concious
+
 5-. Data containing Passes/Fail depending on the average of each assessment
+
 6 -. Press 0 to exit
 
 In addition, if a student did not attended to one exam their mark would appear as 0.
@@ -24,4 +29,7 @@ Final
 Finally this program contains 2 parts:
 
   1-. The class "Worksheet" stored in Student_Marks.py"
+  
   2-. A menu to interact with the class Menu.py
+  
+  3-. A compiler.py to execute all
